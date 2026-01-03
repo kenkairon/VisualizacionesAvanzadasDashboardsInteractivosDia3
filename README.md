@@ -615,6 +615,10 @@ fig.show()
 
 ---
 
+## Test de Evaluación
+
+![test](heatmap.png)
+
 **Desarrollado para aprendizaje de visualización de datos con Python** 🐍📊
 
 **Última actualización**: Enero 2026
